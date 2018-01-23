@@ -41,3 +41,4 @@ python/ppo/__pycache__/*
 python/train_Data/*
 python/unityagents/__pycache__/*
 python/unity-environment.log
+python/debug.log
