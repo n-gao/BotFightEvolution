@@ -1,6 +1,6 @@
 # BotFight Evolution
 
-![screenshot]
+![logo]
 
 My contribution to the Creative Hack of Microsoft in January 2018, where it got the thrid place.
 
@@ -19,4 +19,7 @@ Future work:
 - Train the CNN against an older self
 - Better code
 
+![screenshot]
+
 [screenshot]: /images/screenshot.png "Screenshot"
+[logo]: /images/logo.png "BotFight Evolution"
